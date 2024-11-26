@@ -1,6 +1,10 @@
-Hi, I’m Viktoriia, a Front-End Developer with a passion for collaboration and continuous learning. My focus is on creating modern, responsive, and performant web applications that prioritize both functionality and aesthetics. 👋
+Lady Viktoriia
 
 <!--
+
+Hi, I’m Viktoriia, a Front-End Developer with a passion for collaboration and continuous learning. My focus is on creating modern, responsive, and performant web applications that prioritize both functionality and aesthetics. 👋
+
+
 **vktrkpv/vktrkpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -1,5 +1,5 @@
 <h1>Lady Viktoriia</h1>
-<h2>Based in Canada 🇨🇦</h2>
+<h4>Based in Canada 🇨🇦</h4>
 
 <p>Hi, I’m a Front-End Developer with a passion for collaboration and continuous learning. My focus is on creating modern, responsive, and performant web applications that prioritize both functionality and aesthetics. 👋</p>
 <!--
